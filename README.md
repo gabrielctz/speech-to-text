@@ -23,4 +23,5 @@ pip3 install -r requirements.txt
 
 ### 💖 Then just run the script 
 `pip3 install -r requirements.txt`
+
 `python3 script.py`
