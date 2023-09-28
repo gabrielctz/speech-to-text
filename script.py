@@ -31,6 +31,7 @@ def package():
 
 def main():
     os.system("cls")
+    package()
     print(f"\n ╔\n ║ {Fore.GREEN} Speech to text {Fore.RED} 2k23{Fore.RESET}\n ║ {Fore.GREEN} Developer: {Fore.RED} GabrielCtz{Fore.RESET}\n ╚")
     files = fileopenbox(msg="Sélectionnez votre audio à convertir.")
 
