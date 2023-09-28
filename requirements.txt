@@ -1,0 +1,7 @@
+SpeechRecognition
+pydub
+easygui
+colorama
+time
+getpass
+wget
